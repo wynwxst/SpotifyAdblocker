@@ -1,0 +1,2 @@
+# SpotifyAdblocker
+simulates premium
