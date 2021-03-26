@@ -1,11 +1,6 @@
 @echo off
 call :RequestAdminElevation "%~dpfs0" %* || goto:eof
 mode con: cols=60 lines=10
-title -Script para bloquear la publicidad de Spotify-
-echo +++++++++++++++++++++++++++++++++++++++++++++++++
-echo + -Script para quitar la publicidad de Spotify- +
-echo +    Realizado por @GabryProject (18/08/2016)   +
-echo +++++++++++++++++++++++++++++++++++++++++++++++++
 echo.
 echo check the git repo later
 echo.
